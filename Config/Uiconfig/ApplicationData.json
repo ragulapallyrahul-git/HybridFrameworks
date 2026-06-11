@@ -1,0 +1,9 @@
+{
+    "uidata":
+    {
+      "url": "http://127.0.0.1/orangehrm-2.5.0.2/login.php",
+      "title": "OrangeHRM - New Level of HR Management",
+      "Username": "playwright",
+      "password": "playwright"
+    }
+}

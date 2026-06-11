@@ -1,0 +1,12 @@
+{
+   "XAddEmployeeLink": "//a[text()='OrangeHRM']",
+   "XFrame": "//iframe[@id='rightMenu']",
+   "XID": "//input[@name='txtEmployeeId']",
+   "XLAST": "//input[@name='txtEmpLastName']",
+   "XFIRST": "//input[@name='txtEmpFirstName']",
+   "XMIDDLE": "//input[@name='txtEmpMiddleName']",
+   "XNICK": "//input[@name='txtEmpNickName']",
+   "XPHOTO": "//input[@name='photofile']",
+   "XSAVE": "//input[@id='btnEdit']"
+
+}

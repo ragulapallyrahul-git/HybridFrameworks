@@ -1,0 +1,5 @@
+{
+    "XAddEmployeeLink": "//a[text()='OrangeHRM']",
+    "XFrame": "//iframe[@id='rightMenu']",
+    "XBack": "//input[@value='Back']"
+}
