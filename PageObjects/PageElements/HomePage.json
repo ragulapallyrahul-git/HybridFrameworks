@@ -1,0 +1,11 @@
+{
+    "XHomeLogo" : "//img[@width= '266']",
+    "XEmpLogo" : "//img[@height= '180']",
+    "XHomeText" : "//font[@size= '3']",
+    "XLoginText" : "//td[text()= 'Login Name : ']",
+    "XPasswordText": "//td[text()= 'Password : ']",
+    "XUserName": "//input[@tabindex= '1']",
+    "XPassword": "//input[@tabindex= '2']",
+    "XLogin": "//input[@tabindex= '3']",
+    "XOrangeHRMLINK": "//a"
+}

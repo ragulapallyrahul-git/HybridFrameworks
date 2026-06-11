@@ -1,0 +1,6 @@
+{
+    "XAfterLoginLogo": "//div[@id='companyLogoHeader']",
+    "XAfterLoginText": "//li[text()='Welcome playwright']",
+    "XPIM": "//li[@id='pim']",
+    "XADD": "//span[text()='Add Employee']"
+}
