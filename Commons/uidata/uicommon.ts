@@ -1,5 +1,5 @@
 import{expect , Page , Locator} from '@playwright/test'
-class Webpage{
+export class Webpage{
     page : Page;
     constructor(page : Page)
     {
@@ -59,7 +59,7 @@ class Webpage{
       await this.page.frameLocator(floc).locator(loc).fill(text);
     }
     //under the frame,click on an element
-    async myFrameDataClick(floc:string , loc:string , text:string)
+    async myFrameDataClick(floc:string , loc:string )
     {
         await this.page.frameLocator(floc).locator(loc).click();
     }
